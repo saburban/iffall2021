@@ -1,0 +1,32 @@
+
+img[src="http://wudesign.me/resources/basic-layout/images/portrait.png"] {
+    width: 90%;
+  }
+  .grid{
+    padding: 0;
+    display: block;
+  }
+
+.using-floats{
+    float: left;
+    content: "";
+    display: block;
+    clear: both;
+}
+.grid li {
+    width: 25%;
+    text-align: center; 
+    font-size: 0.8rem;
+    margin-bottom: 1rem; 
+}
+.grid-using-inline-block {
+    display: inline-block;
+    font-size: 0;
+}
+.grid-using-flex{
+    display: flex;
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;.
+}
