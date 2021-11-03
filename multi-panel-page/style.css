@@ -1,0 +1,90 @@
+html {
+    font-family: 'Roboto', sans-serif; 
+}
+header{
+    background-image: url("images/pink.jpg");
+    background-position: center, 0;
+    background-color: rgb(119, 119, 119);
+    padding: 70px 30px;
+    
+}
+footer {
+	background-color: rgb(52, 65, 23);
+	color: rgb(255, 255, 255);
+    padding-top: 15pt;
+    padding-left: 260px;
+    padding-bottom: 20pt;
+}
+ h1 {
+    font-size: 25pt;
+    text-align: center;
+    padding-top: 25px;
+    margin-bottom: 50px;
+    color:rgb(131, 0, 55)
+}
+#sec1 p {
+    word-wrap: normal;
+    margin-right: 250px;
+    margin-left: 275px;
+    margin-top: 20pt;
+    text-align: justify;
+    color: rgb(26, 66, 2);
+}
+
+section#sec1 .items img {
+    float: right;
+    width: auto;
+    max-width: 400px;
+    height: auto;
+    max-height: 300px;
+    margin: 0 0 20px 40px;
+    }
+#sec1 {
+    background-color: rgb(236, 181, 185);
+    padding-bottom: 80pt;
+    padding-top: 13pt;
+}
+#sec2 {
+    background-color: rgb(205, 230, 182);
+    padding-top: 25pt;
+    padding-bottom: 25pt;
+}
+
+section#sec2 .stuff .photog {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 40px 24px 0;
+    clear: both;
+}
+
+section#sec2 .stuff img {
+    width: 200px; 
+    height: 150px;
+    margin: 0 12px 0 0;
+    float: left;
+}
+
+section#sec2 .stuff h3 {
+    font-size: 25x;
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: rgb(66, 2, 21);
+}
+
+section#sec2 .stuff p {
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: rgb(26, 66, 2);
+}
+section#sec3 h2{
+    text-align: center;
+    margin-left: 25%;
+    margin-right:25%;
+}
+section#sec3 {
+    background-color: rgb(253, 212, 219);
+    padding-top: 5pt;
+    padding-bottom: 35pt;
+}
+
