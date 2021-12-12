@@ -1,0 +1,62 @@
+html{
+    background-color: #fcfaf5;
+}
+h1{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 40pt;
+    margin-top: 8rem;
+    margin-bottom: -.5rem;
+    color: #300012;
+}
+h2{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #300012;
+}
+h3{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    color: #300012;
+}
+a.recipe{
+    position: absolute;
+    left: 40%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    background-color: #ffdce4;
+    color: #300012;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-family: 'Epilogue', sans-serif;
+    transition: all 0.7s
+}
+a.recipe:hover{
+    background-color: #dfa9b5;
+    box-shadow: 0 0 2px #c7c4bb;
+    color: #a7003d;
+}
+a.wiki{
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    background-color: #ffdce4;
+    color: #300012;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-family: 'Epilogue', sans-serif;
+    transition: all 0.7s
+}
+a.wiki:hover{
+    background-color: #dfa9b5;
+    box-shadow: 0 0 2px #c7c4bb;
+    color: #a7003d;
+}
+
